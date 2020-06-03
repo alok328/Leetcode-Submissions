@@ -6,6 +6,11 @@ write a function that will return true if the ransom note can be constructed fro
 
 Each letter in the magazine string can only be used once in your ransom note.
 
+Example:
+
+Input: J = "aA", S = "aAAbbbb"
+Output: 3
+
 */
 /* Solution */
 class Solution {
